@@ -6,5 +6,7 @@ Occasionally [I write random things here](https://nicksnell.io) and [here](https
 
 -------
 
+🚀 This week I've been using
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
