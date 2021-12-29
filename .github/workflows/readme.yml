@@ -1,6 +1,9 @@
 name: Readme Updates
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
@@ -14,3 +17,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        
