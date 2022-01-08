@@ -10,9 +10,6 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 
 <!--START_SECTION:waka-->
 ```text
-Python       57 mins         █████████████▒░░░░░░░░░░░   53.21 % 
-CSV          42 mins         ██████████░░░░░░░░░░░░░░░   39.48 % 
-XML          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
