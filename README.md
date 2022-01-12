@@ -10,6 +10,10 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   30 mins         ██████████▒░░░░░░░░░░░░░░   40.90 % 
+TOML     17 mins         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+YAML     11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Other    7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+INI      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 ```
 <!--END_SECTION:waka-->
