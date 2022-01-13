@@ -10,10 +10,10 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 
 <!--START_SECTION:waka-->
 ```text
-Python   30 mins         ██████████▒░░░░░░░░░░░░░░   40.90 % 
-TOML     17 mins         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-YAML     11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Other    7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-INI      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Python   2 hrs 30 mins   █████████████▒░░░░░░░░░░░   53.15 % 
+TOML     1 hr 12 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.61 % 
+Other    26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Text     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+YAML     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 <!--END_SECTION:waka-->
