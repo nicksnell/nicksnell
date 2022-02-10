@@ -10,10 +10,10 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 
 <!--START_SECTION:waka-->
 ```text
-Python       4 hrs 35 mins   ██████████████████▒░░░░░░   73.82 % 
-TypeScript   1 hr 2 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Git Config   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Python       7 hrs 10 mins   ███████████████████████▒░   93.97 % 
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 <!--END_SECTION:waka-->
