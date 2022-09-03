@@ -11,8 +11,7 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 <!--START_SECTION:waka-->
 
 ```text
-Python     1 hr 4 mins     ██████████████████▓░░░░░░   75.19 %
-Other      10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
