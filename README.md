@@ -11,9 +11,9 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 <!--START_SECTION:waka-->
 
 ```text
-Python     6 hrs 44 mins   ████████████████████▒░░░░   81.17 %
-Markdown   1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-Other      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Python     8 hrs 8 mins    ████████████████████░░░░░   80.34 %
+Markdown   1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Other      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
