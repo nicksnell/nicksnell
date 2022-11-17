@@ -11,10 +11,9 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 <!--START_SECTION:waka-->
 
 ```text
-Elixir       3 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   35.84 %
-Python       1 hr 55 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-Markdown     1 hr 40 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
-Other        1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Python       3 hrs 38 mins   ██████████▓░░░░░░░░░░░░░░   43.14 %
+Elixir       1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Other        1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
 ```
 
 <!--END_SECTION:waka-->
