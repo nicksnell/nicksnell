@@ -11,7 +11,7 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 <!--START_SECTION:waka-->
 
 ```text
-Other   0 secs          █████████████████████████   100.00 %
+Lua   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
