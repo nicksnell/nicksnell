@@ -11,12 +11,12 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 <!--START_SECTION:waka-->
 
 ```text
-Nim          2 hrs 19 mins   ██████████████▓░░░░░░░░░░   58.15 %
-Python       52 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-TOML         19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Bash         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Lua          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Text         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Python       2 hrs 21 mins   ██████████░░░░░░░░░░░░░░░   39.82 %
+Nim          2 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   39.35 %
+Markdown     34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+TOML         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Bash         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Lua          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
