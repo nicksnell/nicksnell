@@ -11,7 +11,9 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript            40 mins         █████████████████████▓░░░   86.75 %
+Sublime Text Config   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+JSON                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
