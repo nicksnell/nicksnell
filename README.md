@@ -11,8 +11,7 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 <!--START_SECTION:waka-->
 
 ```text
-Ruby   0 secs          ██████████████████████▓░░   91.14 %
-JSON   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
