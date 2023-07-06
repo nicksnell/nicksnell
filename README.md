@@ -11,11 +11,11 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 <!--START_SECTION:waka-->
 
 ```txt
-Python       9 hrs 13 mins   ██████████████▒░░░░░░░░░░   57.09 %
-TypeScript   2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-CSV          1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-Other        57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Markdown     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Python       7 hrs 57 mins   ██████████████▓░░░░░░░░░░   58.01 %
+TypeScript   2 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+CSV          1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+Other        57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Markdown     42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
