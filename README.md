@@ -11,7 +11,11 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 <!--START_SECTION:waka-->
 
 ```txt
-Emacs Lisp   3 mins          █████████████████████████   100.00 %
+TypeScript   1 hr 20 mins    ██████████▒░░░░░░░░░░░░░░   41.99 %
+Python       1 hr 5 mins     ████████▓░░░░░░░░░░░░░░░░   34.22 %
+Other        15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+YAML         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
