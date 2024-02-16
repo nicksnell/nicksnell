@@ -11,10 +11,8 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 <!--START_SECTION:waka-->
 
 ```txt
-Cocoa    16 mins         ██████████░░░░░░░░░░░░░░░   40.20 %
-Python   15 mins         █████████▒░░░░░░░░░░░░░░░   37.64 %
-Other    4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-JSON     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Cocoa   16 mins         ███████████████████▓░░░░░   78.08 %
+Other   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
 ```
 
 <!--END_SECTION:waka-->
