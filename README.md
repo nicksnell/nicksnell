@@ -11,8 +11,7 @@ Occasionally [I write random things here](https://nicksnell.com) and [here](http
 <!--START_SECTION:waka-->
 
 ```txt
-Cocoa   16 mins         ███████████████████▓░░░░░   78.08 %
-Other   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
